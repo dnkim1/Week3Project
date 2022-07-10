@@ -1,5 +1,5 @@
 # Week3ProjectPublic
-BWSI Medlytics 2021 - Challenge Project for Week 3 (Image Processing and Advanced Analytics)
+BWSI Medlytics 2022 - Challenge Project for Week 3 (Image Processing and Advanced Analytics)
 
 * Contains a notebook with the challenge details explained fully. In this challenge students classify segments of mammogram images as 0 (negative for abnormality) or 1 (positive for abnormality) or 0, 1, 2, 3, 4 in the multiclass problem (negative and varying types of abnormalities).
 
